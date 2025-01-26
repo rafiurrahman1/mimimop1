@@ -21,14 +21,14 @@ header{
 	margin: 0 auto;
 	overflow: hidden;
 	width: 90%;
-	border: 1px solid;
+	/*border: 1px solid;*/
 }
 
 .logo {
 	margin-top: 8px;
 	float: left;
 	width: 12%;
-	border: 1px solid;
+	/*border: 1px solid;*/
 }
 
 .logo a{
@@ -42,7 +42,7 @@ header{
 .menu {
 	float: right;
 	width: 75%;
-	border: 1px solid;
+	/*border: 1px solid;*/
 }
 
 .menu ul {
